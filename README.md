@@ -43,3 +43,6 @@ We decided to start a webtools repository on bitbucket. From now on, the web too
 - [Twitter Downloader](https://twmate.com) an online tool to download twitter videos and gifs
 - [Vidiget Video Downloader](https://vidiget.com) usefull tool to download video from social media networks
 - [MP3 Juice](https://mp3juice.pet) music search engine
+
+### Article Tools
+- [Filsouf Article Research Tool](https://filsouf.com)
